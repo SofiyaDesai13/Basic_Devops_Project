@@ -1,1 +1,7 @@
+Prerequisites
+Git, Linux, Jenkins, Docker, DockerHub account, Ansible, Kubernetes(Deployments and services)
 
+3 ec2 instances
+Jenkins (defacult-jre+Jenkins)
+Ansible (python+Ansible+Docker)
+Webapp (kubernetes cluster) --> (docker+minikube)
